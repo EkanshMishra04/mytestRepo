@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: com.nagarro.em.springazureservice1.SpringAzureService1ApplicationTests
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 6.396 s - in com.nagarro.em.springazureservice1.SpringAzureService1ApplicationTests

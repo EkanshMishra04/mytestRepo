@@ -1,0 +1,6 @@
+com\nagarro\em\springazureservice1\entity\Employee.class
+com\nagarro\em\springazureservice1\service\EmployeeService.class
+com\nagarro\em\springazureservice1\repository\EmployeeRepository.class
+com\nagarro\em\springazureservice1\serviceImplementation\EmployeeServiceImplementation.class
+com\nagarro\em\springazureservice1\controller\EmployeeController.class
+com\nagarro\em\springazureservice1\SpringAzureService1Application.class
