@@ -1,6 +1,6 @@
 spring:
   datasource:
-    url: jdbc:sqlserver://azureassignment.database.windows.net:1433;database=azure-em-01;user=azuredb@azureassignment;password=Test@13june;encrypt=true;trustServerCertificate=false;hostNameInCertificate=*.database.windows.net;loginTimeout=30;
+    url: jdbc:sqlserver://ekanshmysqlserver.database.windows.net:1433;database=azuredb;user=em-azure-db@ekanshmysqlserver;password=Test@13june;encrypt=true;trustServerCertificate=false;hostNameInCertificate=*.database.windows.net;loginTimeout=30;
     show-sql: 'true'
     hibernate:
       ddl-auto: create-drop
